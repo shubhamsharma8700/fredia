@@ -105,6 +105,7 @@
 .testo {
   background: url(images/02.jpg);
   background-size: cover;
+  background-attachment:fixed;
   /* height: 100vh; */
 }
 .dec {
