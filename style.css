@@ -106,7 +106,8 @@
   background: url(images/02.jpg);
   background-size: cover;
   background-attachment:fixed;
-  /* height: 100vh; */
+  background-position:center;
+  height: 100vh; 
 }
 .dec {
   background-color: #e52e71;
